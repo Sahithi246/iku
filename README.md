@@ -6,3 +6,4 @@ Rest API using django and postgres
 
 ![image](https://user-images.githubusercontent.com/67866005/116810574-23c21a00-ab62-11eb-82d4-6b2f5743105b.png)
 
+![image](https://user-images.githubusercontent.com/67866005/116810618-61bf3e00-ab62-11eb-96dc-afd667571e36.png)
